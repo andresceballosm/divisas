@@ -28,7 +28,7 @@ keyCambio= 'XXXXXX'
 para que la app se conecte a la API corriendo en local.
 
 ```
-let Ip= 'http://192.168.1.5';
+let Ip= 'http://192.XXX.X.X';
 ```
 
 
